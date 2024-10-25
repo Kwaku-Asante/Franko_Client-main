@@ -1,0 +1,17 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.ant-menu-item-selected {
+    background-color: #65aa82 !important;
+  }
+  
+  .ant-menu-item-selected a {
+    color: #fff !important;
+    cursor: pointer;
+  }
+  .ant-menu-item-selected .anticon {
+    color: #fff !important;
+  }
